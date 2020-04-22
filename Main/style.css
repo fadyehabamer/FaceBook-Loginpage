@@ -1,0 +1,158 @@
+/*
+			    * Support me, please
+			    * You can subscribe now
+	copyLink--> * https://www.youtube.com/channel/UCHZIqYPcoAtOJQCcyUkaTaQ
+*/
+
+*{
+	padding:0;margin:0;
+	font-family:helvetica,tahoma;
+	box-sizing:border-box;
+}
+.container{width:75%;margin:auto;}
+.nav{
+	height:80px;width:100%;
+	background:#3b5998;
+	overflow:hidden;
+	font-weight:bold;
+	color:#fff;
+}
+.nav .img{
+	width:30%;height:100%;
+	float:left;
+	display:inline-block;
+}
+.nav .img img{width:200px;height:80px;}
+
+.nav table{
+	float:right;
+	margin:8px 0 0;
+	font-size:12px;
+}
+.nav table tr td{padding:0 0 5px 15px;}
+.nav table input[type="text"],[type="password"]{
+	border:1px solid #1d2a5b;
+	height:23px;width:150px;
+	padding-left:2px;
+}
+.nav table input[name="login"]{
+	background:#4267b2;
+	border:1px solid #ccd0d5;
+	padding:2px 6px;color:#fff;
+	font-weight:bold;cursor:pointer;
+	outline:none;
+}
+.nav table a{
+	color:#9cb4d8;
+	text-decoration:none;
+}
+.nav table a:hover{text-decoration:underline}
+.page{
+	background:linear-gradient(white,#d3d8e8);
+	height:700px;overflow:hidden
+}
+.page .left{
+	width:50%;height:50%;
+	float:left;
+}
+.page .left p{
+	color:#0e385f;
+	font-size:20px;
+	font-weight:bold;
+	line-height:29px;
+	margin-top:40px;
+	word-spacing:-1px;
+}
+.page .left .img-bx{
+	width:100%;
+	height:100%;
+	margin-top:20px;
+}
+.page .left .img-bx img{
+	width:100%;height:100%;
+}
+.page .right{
+	width:40%;
+	height:100%;
+	float:right;
+}
+.page .right h1{
+	font-size:36px;
+	margin:20px 0;
+	color:#333;
+}
+.page .right p{
+	color:#1d2129;
+	font-size:19px;
+	margin:0 0 20px;
+}
+.page .right input{
+	border:1px solid #bdc7d8;
+	border-radius:5px;
+	background:#fff;
+	outline:#fff;
+	height:40px;
+	font-size:18px;
+	padding:10px 8px;
+	margin:10px 0;
+}
+.page .right input[name="first"]{
+	width:195px;
+	margin-right:6px;
+}
+.page .right input[name="last"]{width:195px;}
+
+.page .right input[name="email"],[name="uppassword"]{
+		width:400px;
+		display:block
+}
+.page .right .info h2{
+	color:#90949c;
+	font-size:18px;
+	font-weight:bold;
+	margin:30px 0 5px;
+}
+.page .right .info select{
+	padding:5px;
+	height:30px;
+	font-size:16px;
+	border:1px solid #ccd0d5;
+}
+.page .right .info label{
+	color:#1d2129;
+	font-size:18px;
+	padding:0 30px 0 3px;
+}
+.page .right button{
+	width:194px;
+	padding:7px 20px;
+	text-align:center;
+	margin-top:20px;
+	font-size:19px;
+	border-radius:5px;
+	outline:none;
+	cursor:pointer;
+	background:linear-gradient(#67ae55, #578843);
+	background-color:#69a74e;color:#fff;
+	box-shadow:inset 0 1px 1px #a4e388;
+	border-color:#3b6e22 #3b6e22 #2c5115;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
